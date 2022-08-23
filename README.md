@@ -1,3 +1,5 @@
+작성일자: 2022.08.22 ~ 
+
 # 깃허브 작업 예정
 
 - [Daily_Algorithm](https://github.com/sghong977/Daily-Algorithm.git): 알고리즘 문제 푸는 기록
