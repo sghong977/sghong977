@@ -9,6 +9,12 @@
 - 포트폴리오 (노션 페이지, 구글 슬라이드) 링크 여기에 추가 예정
 - 포폴 프로젝트 관련 코드 문제없이 수정 후 public 전환
 
+## Profile
+- LinkedIn: link
+- Google Scholar: [link](https://scholar.google.com/citations?user=0kh6CPgAAAAJ&hl=en&oi=sra)
+- Blog:
+- Notion:
+
 ### 아래 이거 기본양식이던데... 이쁘게 이 페이지도 나중에 꾸밀게요.
 - 👋 Hi, I’m @sghong977
 - 👀 I’m interested in ...
