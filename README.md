@@ -5,7 +5,7 @@ Last Update: 2022.08.24.
 - **AI Research Engineer**
 - 💞️ Computer Vision, Deep Learning
 - 🌱 Dive into Deep Learning when I was a Undergrad Student (since Dec.2017)
-- 🌱 Graduated with a Bachelor in Computer Engineering, Feb.2020
+- 🌱 Graduated with a Bachelor in Computer Engineering (Feb.2020)
 - ✨ Start working as AI Research Engineer (since Jul.2019 ~ current)
 
 
