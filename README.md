@@ -1,4 +1,4 @@
-작성일자: 2022.08.22 ~ 
+Last Update: 2022.08.24.  
 
 # 👋 Hi, I’m SeulGi Hong.
 ### About Me
