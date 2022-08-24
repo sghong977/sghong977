@@ -2,7 +2,7 @@ Last Update: 2022.08.24.
 
 # 👋 Hi, I’m SeulGi Hong.
 ### About Me
-- AI Research Engineer
+- **AI Research Engineer**
 - 💞️ Computer Vision, Deep Learning
 - 🌱 Dive into Deep Learning since I was a Undergrad Student (since Dec.2017)
 - 🌱 Graduated from Bachelor in Feb.2020
@@ -16,9 +16,9 @@ Last Update: 2022.08.24.
 # 👀 In this github pages,
 - Official code of my papers
 - Implementations related to my Research Projects
-- Personal repos: Daily research progress including Trends survey, algorithm study.
+- **Personal repos**: Daily research progress including Trends survey, algorithm study.
 
-### About my personal repos...
+### About my personal repos?
 I'll update these pages in English later on.
 
 - [Daily_AIML](https://github.com/sghong977/Daily_AIML.git): AIML 논문 혹은 배운 점 일일 기록
