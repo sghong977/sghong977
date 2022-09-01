@@ -27,6 +27,11 @@ I'll update these pages in English later on.
 - 대신에 기존 블로그는 정보전달용으로 가공된 글만 남길 것. (블로그에 대충 갈긴 리뷰가 넘 많음!)
 
 
+### 깃 북?
+깃 이슈에 지금 정리중인데, 이거 일부를 gitbook으로 옮길지는 살짝 고민.
+일단 만들어는 둠. [https://seulgi-hong.gitbook.io/research_progress/](https://seulgi-hong.gitbook.io/research_progress/)
+
+
 <!---
 sghong977/sghong977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
