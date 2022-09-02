@@ -29,7 +29,7 @@ I'll update these pages in English later on.
 
 ### 깃 북?
 깃 이슈에 지금 정리중인데, 이거 일부를 gitbook으로 옮길지는 살짝 고민.
-일단 만들어는 둠. [https://seulgi-hong.gitbook.io/research_progress/](https://seulgi-hong.gitbook.io/research_progress/)
+일단 만들어는 둠. [https://seulgi-hong.gitbook.io/ai_knowledge_base-ko/](https://seulgi-hong.gitbook.io/ai_knowledge_base-ko/)
 
 
 <!---
