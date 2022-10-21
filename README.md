@@ -11,7 +11,7 @@ Last Update: 2022.08.24.
 
 ### 📫 How to reach me ...
 - Email: sghong977@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/seulgi-hong-0b9a131a2), [Google Scholar](https://scholar.google.com/citations?user=0kh6CPgAAAAJ&hl=en&oi=sra), [Blog (Korean)](https://ambitious-posong.tistory.com/), Notion (CV & Portfolio. later...)
+- [LinkedIn](https://www.linkedin.com/in/seulgi-hong-0b9a131a2/?locale=en_US), [Google Scholar](https://scholar.google.com/citations?user=0kh6CPgAAAAJ&hl=en&oi=sra), [Blog (Korean)](https://ambitious-posong.tistory.com/), Notion (CV & Portfolio. later...)
 
 # 👀 In this github pages,
 - Official code of my papers
