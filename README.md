@@ -11,19 +11,7 @@ Last Update: 2022.08.24.
 
 ### 📫 How to reach me ...
 - Email: sghong977@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/seulgi-hong-0b9a131a2/?locale=en_US), [Google Scholar](https://scholar.google.com/citations?user=0kh6CPgAAAAJ&hl=en&oi=sra), [Blog (Korean)](https://ambitious-posong.tistory.com/)
-
-# 👀 In this github pages,
-- Official code of my papers
-- Implementations related to my Research Projects
-- **Personal repos**: Daily research progress including Trends survey, algorithm study.
-
-### About my personal repos?
-- [Daily_AIML](https://github.com/sghong977/Daily_AIML.git): AIML 논문 혹은 배운 점 일일 기록
-- [Daily_Algorithm](https://github.com/sghong977/Daily-Algorithm.git): 알고리즘 문제 푸는 기록
-- [AIML_Basics](https://github.com/sghong977/AIML_Basics.git): 기본개념 간단히 훑기
-- 대신에 기존 블로그는 정보전달용으로 가공된 글만 남길 것. (블로그에 대충 적어둔 리뷰가 너무 많음)
-
+- [LinkedIn](https://www.linkedin.com/in/seulgi-hong-0b9a131a2/?locale=en_US), [Google Scholar](https://scholar.google.com/citations?user=0kh6CPgAAAAJ&hl=en&oi=sra), [Blog](https://sghong977.github.io/)
 
 
 
