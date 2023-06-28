@@ -1,4 +1,6 @@
 Last Update: 2022.08.24.  
+# https://sghong977.github.io/ai-blog/
+- My blog is now opened! (2023.06.28)
 
 # 👋 Hi, I’m SeulGi Hong.
 ### About Me
